@@ -13,8 +13,8 @@ http://www.google.com
 
 <body>
     <h1>이름</h1>
-    <p>전화번호: 010-1234-5678</p>
-    <p>이메일: example@example.com</p>
+    <p>전화번호:010-8913-7017</p>
+    <p>이메일: chaesungwon11@gmail.com</p>
     <h2>학력</h2>
     <ul>
         <li>대학교:세명 대학교</li>
