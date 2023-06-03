@@ -17,15 +17,14 @@
 </body>
 
     
-## smartIT02 Compedency
-- Spring framerwork
-- Spring Boat
+## smartIT학부의 전공과목
+- C언어
+- 
 - JavaScript
 - java
 - 전자회로
 
-http://www.semyung.ac.kr
-http://www.google.com
+
 
 
 
