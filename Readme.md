@@ -12,7 +12,8 @@ http://www.google.com
 
 
 <body>
-    <h1>이름</h1>
+    <h1>Details</h>
+    <p>이름</p>
     <p>전화번호:010-8913-7017</p>
     <p>이메일: chaesungwon11@gmail.com</p>
     <h2>학력</h2>
