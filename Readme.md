@@ -10,8 +10,9 @@
    - e-mail: chaesungwon11@gmail.com
 
 ## 취미
--야구
--볼링
+
+- 야구
+- 볼링
 
 ## 학력
    
