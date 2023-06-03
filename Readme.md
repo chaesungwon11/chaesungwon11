@@ -1,7 +1,7 @@
 
 ## CSW's 이력서
 
-묵묵히 내길만 간다!!
+I Can Do IT Coding!!
 
    
 ## 인적사항  
