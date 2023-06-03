@@ -1,7 +1,7 @@
 
 ## CSW's 이력서
 
-I Can Do IT Coding!!
+Good Luck🍀 ...
 
    
 ## 인적사항  
