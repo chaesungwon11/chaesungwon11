@@ -19,7 +19,7 @@
     
 ## smartIT학부의 전공과목
 - C언어
-- 
+- C++
 - JavaScript
 - java
 - 전자회로
