@@ -3,7 +3,7 @@
 
 <body>
     <h1>Details</h>
-    <p>이름</p>
+    <p>이름:채성원</p>
     <p>전화번호:010-8913-7017</p>
     <p>이메일: chaesungwon11@gmail.com</p>
     
