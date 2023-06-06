@@ -53,12 +53,30 @@ I am a dedicated professional committed to continuous learning and self-improvem
 | I&U프로그램 | 23.5.3~  |
 | I Smart |  23.4.5~|
 
-## 병역
-
-| 군필여부        | 
-| --------------- | 
-|군필 |   
-| 복무기간: 1년6개월 | 
+## 병역사항
+      
+        <table>
+            <tr>
+              <th>군필여부</th>
+              <td>군필</td>
+            </tr>
+            <tr>
+              <th>근무지</th>
+              <td>육군1사단 수색대대</td>
+            </tr>
+            <tr>
+              <th>복무기간</th>
+              <td>1년 6개월</td>
+            </tr>
+            <tr>
+              <th>병과</th>
+              <td>땅굴탐지병</td>
+            </tr>
+            <tr>
+              <th>계급</th>
+              <td>병장</td>
+            </tr>
+          </table>
 
 
 
