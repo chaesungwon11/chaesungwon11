@@ -57,5 +57,5 @@ I am a dedicated professional committed to continuous learning and self-improvem
 - 군필여부 : 군필     
 - 근무지 :육군 1사단
 - 복무기간 : 1년6개월
--병과:땅굴탐지병
--계급: 병장 전역
+- 병과:땅굴탐지병
+- 계급: 병장 전역
