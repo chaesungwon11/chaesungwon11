@@ -1,5 +1,5 @@
 
-##  이력서
+##  Reasume
 
 ## Profile
 I am a dedicated professional committed to continuous learning and self-improvement. My goal is to enhance my problem-solving skills and leadership abilities while acquiring proficiency in new programming languages, as well as emerging technologies like cloud computing and big data analysis. By staying updated with the latest trends and expanding my expertise, I aim to elevate my professional competence and contribute to innovative solutions in the field.
