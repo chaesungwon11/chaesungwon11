@@ -54,12 +54,8 @@ I am a dedicated professional committed to continuous learning and self-improvem
 | I Smart |  23.4.5~|
 
 ## 병역사항
-      
 - 군필여부 : 군필     
 - 근무지 :육군 1사단
 - 복무기간 : 1년6개월
 -병과:땅굴탐지병
--계급병장 전역
-
-
-
+-계급: 병장 전역
