@@ -23,11 +23,9 @@ I am a dedicated professional committed to continuous learning and self-improvem
 
 ## 학력
    
-* 초등학교: 우신초 졸업
-* 중학교: 여의도중학교 졸업
-* 고등학교: 환일고등학교 졸업
-* 대학교: 세명대학교 재학중
-* 전공: Smart it학부
+- 대학교: 세명대학교 재학중
+- 전공: Smart it학부
+- 소재지: 충북 제천시동용두동
 
    
 
