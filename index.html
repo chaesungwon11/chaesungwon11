@@ -5,18 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+
+
+
+       
+
         body {
             margin: 0;
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 230vh;
-        }
-
+            height: 290vh;
+        } 
+        
+     
         .resume {
             width: 1000px;
             height: auto;
-            background-color: #fff;
+            background-color: #ffffff;
             border-radius: 5px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
             padding: 20px;
@@ -37,10 +43,10 @@
         }
 
         .resume table {
-            width: 100%;
-            margin-top: 10px;
+            width: 80%;
+            margin-top: 20px;
             border-collapse: collapse;
-            border: 3px solid black; /* Added this line */
+            border: 2px solid black; 
         }
 
         .resume th,
@@ -64,20 +70,73 @@
 <body>
     <div class="resume">
         <h2>이력서</h2>
-       
 
+        <p><p><P> 
+      
         <h3>인적사항</h3>
-        <p>이름: 채성원 , 영문:chaesungwon</p>
-        <p>나이: 23</p>
-        <p>T: 010-8913-7017</p>
-        <p>e-mail: chaesungwon11@gmail.com</p>
-        <p>주민등록번호: 010305-3******</p>
+
+        <table>
+            <tr>
+              <th>이름</th>
+              <td>채성원</td>
+            </tr>
+            <tr>
+              <th>영문</th>
+              <td>chesungwon</td>
+            </tr>
+            <tr>
+              <th>나이</th>
+              <td>23</td>
+            </tr>
+            <tr>
+              <th>T</th>
+              <td>010-8913-7017</td>
+            </tr>
+            <tr>
+              <th>e-mail</th>
+              <td>chaesungwon@gmail.com</td>
+            </tr>
+            <tr>
+              <th>주민등록번호</th>
+              <td>010305-3******</td>
+            </tr>
+            <tr>
+              <th>주소</th>
+              <td>신길로42길35 삼성래미안A 109동1303호</td>
+            </tr>
+          </table>
+          
 
         <h3>학력</h3>
-        <p>우신초등학교 졸업</p>
-        <p>여의도중학교 졸업</p>
-        <p>환일고등학교 졸업</p>
-        <p>세명대학교 재학중 - Smart IT학부</p>
+        <table>
+            <tr>
+              <th>학력</th>
+              <th>기관</th>
+              <th>전공</th>
+
+            </tr>
+            <tr>
+              <td>초등학교 졸업</td>
+              <td>우신초등학교</td>
+              <td>-</td>
+
+            </tr>
+            <tr>
+              <td>중학교 졸업</td>
+              <td>여의도중학교</td>
+              <td>-</td>
+            </tr>
+            <tr>
+              <td>고등학교 졸업</td>
+              <td>환일고등학교</td>
+              <td>-</td>
+            </tr>
+            <tr>
+              <td>대학교 재학중</td>
+              <td>세명대학교 </td>
+              <td>Smart IT학부</td>
+            </tr>
+          </table>
 
         <h3>가족사항</h3>
         <table>
@@ -108,79 +167,108 @@
         </table>
 
         <h3>배우는 전공 과목</h3>
-        <ul>
-            <li style="color: black;">리눅스</li>
-            <li style="color: black;">C++(객체지향)</li>
-            <li style="color: black;">빅데이터</li>
-            <li style="color: black;">디지털 공학</li>
-            <li style="color: black;">전자회로이론 및 실습</li>
-        </ul>
+        <table>
+            <tr>
+              <th>과목</th>
+            </tr>
+            <tr>
+              <td>- 리눅스🐧</td>
+            </tr>
+            <tr>
+              <td>- C++(객체지향)🖥️</td>
+            </tr>
+            <tr>
+              <td>- 빅데이터📊</td>
+            </tr>
+            <tr>
+              <td>- 디지털 공학🔌</td>
+            </tr>
+            <tr>
+              <td>- 전자회로이론 및 실습⚡</td>
+            </tr>
+          </table>
+          
 
         <h3>자격증</h3>
         <table>
             <tr>
-                <th>자격증명</th>
-                <th>발급일자</th>
-                <th>발급기관</th>
+              <th>자격증명</th>
+              <td>2종 보통 운전 면허</td>
             </tr>
             <tr>
-                <td>2종 보통 운전 면허</td>
-                <td>2020.02.21</td>
-                <td>서울 지방 경찰청</td>
+              <th>발급일자</th>
+              <td>2020.02.21</td>
             </tr>
-        </table>
+            <tr>
+              <th>발급기관</th>
+              <td>서울 지방 경찰청</td>
+            </tr>
+          </table>
+          
 
         <h3>아르바이트 경력</h3>
         <table>
             <tr>
-                <th>아르바이트 종류</th>
-                <th>활동내용</th>
-                <th>기관</th>
-                <th>활동기간</th>
+              <th>아르바이트 종류</th>
+              <td>동대문 엽기 떡볶이</td>
+              <td>대교문구</td>
             </tr>
             <tr>
-                <td>동대문 엽기 떡볶이</td>
-                <td>음식점</td>
-                <td>영등포 신길점</td>
-                <td>2022.08.04 ~ 2022.08.19</td>
+              <th>활동내용</th>
+              <td>음식점(손님 응대)</td>
+              <td>서비스업종(물건 진열 및 손님 응대)</td>
             </tr>
             <tr>
-                <td>대교문구</td>
-                <td>서비스업종</td>
-                <td>여의도점</td>
-                <td>2022.08.22 ~ 2023.02.17</td>
+              <th>기관</th>
+              <td>영등포 신길점</td>
+              <td>여의도점</td>
             </tr>
-        </table>
-
+            <tr>
+              <th>활동기간</th>
+              <td>2022.08.04 ~ 2022.08.19</td>
+              <td>2022.08.22 ~ 2023.02.17</td>
+            </tr>
+          </table>
+          
         <h3>프로그램 활동</h3>
         <table>
             <tr>
-                <th>참여활동</th>
-                <th>활동기간</th>
+              <th>참여활동</th>
+              <td>I&U프로그램</td>
+              <td>I Smart(동아리)</td>
             </tr>
             <tr>
-                <td>I&U프로그램</td>
-                <td>23.5.3~</td>
+              <th>활동기간</th>
+              <td>23.5.3~</td>
+              <td>23.4.5~</td>
             </tr>
-            <tr>
-                <td>I Smart(동아리)</td>
-                <td>23.4.5~</td>
-            </tr>
-        </table>
-
+          </table>
+          
         <h3>병역사항</h3>
+      
         <table>
             <tr>
-                <th>군필여부</th>
-                <th>근무지</th>
-                <th>복무기간</th>
+              <th>군필여부</th>
+              <td>군필</td>
             </tr>
             <tr>
-                <td>군필</td>
-                <td>육군1사단 수색대대</td>
-                <td>1년 6개월</td>
+              <th>근무지</th>
+              <td>육군1사단 수색대대</td>
             </tr>
-        </table>
+            <tr>
+              <th>복무기간</th>
+              <td>1년 6개월</td>
+            </tr>
+            <tr>
+              <th>병과</th>
+              <td>땅굴탐지병</td>
+            </tr>
+            <tr>
+              <th>계급</th>
+              <td>병장</td>
+            </tr>
+          </table>
+          
     </div>
 </body>
 </html>
