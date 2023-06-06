@@ -6,8 +6,11 @@ I am a dedicated professional committed to continuous learning and self-improvem
    
 ## 인적사항  
    - 이름:채성원
-   - 전화번호:010-8913-7017
-   - e-mail: chaesungwon11@gmail.com
+   - 영문:chaesungwon
+   - ☎️전화번호:010-8913-7017
+   - 나이 :23
+   - 📧 chaesungwon11@gmail.com
+   
    
 
 ## 가족 구성원
